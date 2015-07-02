@@ -1,0 +1,13 @@
+Successfully pushed local directory files for school planner to github repository.
+
+Definitely tricky for me at first but I think I'm getting the hang of it.
+
+Anyone with suggestions or advice would be greatly appreciated.
+
+Let me know if pushed files are working properly for you in Visual Studio.
+
+***Some of the source code for the planner probably will need to be re-written. The source code references old directory
+locations for checkboxlist controls and so on, although pushed files do include those referenced notepad documents themselves. 
+This might be a cool place to start. I would also like advice for making
+this program as portable as possible, including how to get around referencing local directories for control values that 
+would not translate to other user machines. 
